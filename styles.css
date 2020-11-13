@@ -1,0 +1,51 @@
+/* 
+Noel Glamann
+November 10, 2020 
+
+CSS Styles for CANpaign webpage. 
+*/
+
+body{
+	background: black;
+	color: white;
+}
+
+/* HEADING */
+
+.heading {
+	display: block;
+	width: 100%;
+	background-image: radial-gradient(white, red);
+	color: black;
+}
+
+.heading h1{
+	text-align: center;
+	font-family: Impact;
+	font-size: 70px;
+}
+
+.heading label {
+	font-family: Impact;
+	font-size: 50px;
+	padding-left: 20px;
+}
+
+.heading meter {
+	float: right;
+	width: 70%;
+	height: 50px;
+	margin: auto;
+	padding-right: 20px;
+}
+
+.content {
+}
+
+.sidebar {
+}
+
+.footer {
+}
+
+
